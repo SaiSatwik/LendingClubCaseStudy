@@ -21,10 +21,10 @@ Lending Club Case Study
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Minimize issuing loans to small business.
+- Avoid issuing loans where loan amount to annual income ratio is > 30%.
+- LC should avoid considering loans with DTI > 20 or atleast should impose high interest rate so that number of applicants would be less.
+- Reduce approving loans to applicants having previous bankruptcy records.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
